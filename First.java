@@ -1,4 +1,4 @@
-int a=100;
-int b=2;
+int a=500;
+int b=20;
 int s= a+ b;
 System.out.println(c);
